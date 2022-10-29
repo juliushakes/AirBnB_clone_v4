@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-juliushakes - [Github](https://github.com/juliushakes
+juliushakes - [Github](https://github.com/juliushakes)
 ## License
 Public Domain. No copy write protection. 
